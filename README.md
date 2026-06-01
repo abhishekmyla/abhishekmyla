@@ -18,7 +18,7 @@ I'm a Computer Science graduate currently completing a Full Stack Web Developmen
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**Mobile & Backend**
+**Mobile & Other**
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -50,9 +50,9 @@ I'm a Computer Science graduate currently completing a Full Stack Web Developmen
 | Project | Description | Tech |
 |---|---|---|
 | [React Task Manager](https://github.com/abhishekmyla/react-task-manager) | Full CRUD task app with React hooks | React, JavaScript, CSS |
-| [Weather App](https://github.com/abhishekmyla/weather-app) | Live weather via OpenWeatherMap API | JavaScript, REST API, HTML |
-| [Cookbook Android App](https://github.com/abhishekmyla/cookbook-app) | Android app with Firebase auth & database | Kotlin, Firebase, Android |
-| [Phishing Email Detector](https://github.com/abhishekmyla/phishing-detector) | ML pipeline — MSc distinction dissertation | Python, Scikit-learn, ML |
+| [JavaScript Weather App](https://github.com/abhishekmyla/javascript-weather-app) | Live weather via OpenWeatherMap API | JavaScript, REST API, HTML |
+| Cookbook Android App | Android app with Firebase auth & database | Kotlin, Firebase, Android |
+| Phishing Email Detector | ML pipeline — MSc distinction dissertation | Python, Scikit-learn, ML |
 
 ---
 
